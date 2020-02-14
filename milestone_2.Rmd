@@ -9,22 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Project 1:
+#### The Billboard Top 100: An Analysis of Timelessness and Lyrical Content
+Katie Cao's 2019 project on [the Billboard Top 100](https://kcao.shinyapps.io/billboard/), analyzes the lyrical content of Billboard hit songs from a period of about sixty years. This project does a lot of things well—the predictions align with common conceptions of pop music (lots of repetition, but unique words to deliver those repeated ideas), and the graphical data is well-presented and easy to understand. Also, according to the project's "about" page, the lyrical data required extensive cleaning to deal with factors like contractions, extraneous labels, and the like, which was very well done. The cons are pretty minor; the fact that different data sets are used for different analyses isn't ideal, but it's understandable given the scope of the project. Also, I'd love more explanation of how the "sentiment analysis" was performed—it's an interesting approach, but I found myself wondering what the methodology was for determining sentiments. Finally, I'm not convinced that "timelessness" is the best way to describe popularity over time, and the fact that it necessitates describing "Party Rock Anthem" as timeless is, quite frankly, insane. I'm sorry, I love LMFAO, but that song is very very fixed to the year 2011 and nothing more.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+# Project 2:
+#### Something Else
